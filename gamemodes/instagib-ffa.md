@@ -1,5 +1,9 @@
 ![Splitgate - Instagib FFA](https://user-images.githubusercontent.com/58918358/175748747-d8624c4c-3e10-42d3-95dc-d3e2d2da8414.png)
 
+* **Original Mode:** Free for All
+* **Author:** CorellanStoma
+* **Description:** Just a better version of Instagib.
+
 ## MAP OPTIONS:
 * PICKUP SPAWNS: ``X``
 * BOUNDARIES: ``✓``
