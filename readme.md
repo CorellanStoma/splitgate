@@ -1,4 +1,4 @@
-# Splitgate Customs
+# Splitgate
 
 ## Maps
 
